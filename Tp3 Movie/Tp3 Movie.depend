@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1495925204 source:e:\tp\tp3 movie\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1496459364 e:\tp\tp3 movie\funciones.h
+
+1495922229 source:c:\users\fernando\desktop\tp3 movie\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1495925236 c:\users\fernando\desktop\tp3 movie\funciones.h
+
+1495925203 source:c:\users\fernando\desktop\tp3 movie\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1495925238 source:e:\tp\tp3 movie\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
